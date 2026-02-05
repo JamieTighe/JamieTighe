@@ -6,8 +6,3 @@ Engineering graduate turned data analyst (General Assembly, 12-weeks, full-time)
 🔗 Portfolio: <https://jamietighe.com/>  
 🔗 LinkedIn: <https://www.linkedin.com/in/jamietighe98/>  
 🔗 Tableau: <https://public.tableau.com/app/profile/jamie.tighe/vizzes>  
-
----
-
-## Get in touch
-If you’d like to chat about data roles or any of the projects below, message me on LinkedIn: <https://www.linkedin.com/in/jamietighe98/>
